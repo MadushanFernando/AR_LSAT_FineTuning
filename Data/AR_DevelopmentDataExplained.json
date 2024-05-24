@@ -1,0 +1,1227 @@
+[
+	{
+		"id": "200006_1-G_1",
+		"questions": [
+			{
+				"id": "200006_1-G_1_1",
+				"fatherId": "200006_1-G_1",
+				"questionId": "1",
+				"question": "Which one of the following is a complete and accurate list of the children who must be among those assigned to shared lockers?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"Fred, Juan",
+					"Juan, Paul",
+					"Juan, Marc, Paul",
+					"Juan, Marc, Trisha",
+					"Juan, Nita, Trisha"
+				],
+				"answer": "E",
+				"explanation" : "Since there’s only three girls and Rachel cannot share a locker other two girls must share a locker. Since Juan also must share a locker. Therefore, Nita, Rachel and Juan must share a locker. Therefore, Answer is answer E. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200006_1-G_1_2",
+				"fatherId": "200006_1-G_1",
+				"questionId": "2",
+				"question": "If Trisha is assigned to locker 3 and Marc alone is assigned to locker 1, then which one of the following must be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"Juan is assigned to locker 4.",
+					"Juan is assigned to locker 5.",
+					"Paul is assigned to locker 2.",
+					"Rachel is assigned to locker 2.",
+					"Rachel is assigned to locker 5."
+				],
+				"answer": "B",
+				"explanation": "This means Fred and Trisha on Locker 3. Since Juan has to share a locker he must be with Nita. Since Nita can’t be adjacent to Trisha’s locker and Marc is alone in locker 1, Juan and Nita can’t be in locker 2 or 4. Which means Juan and Nita on locker 5. Therefore answer is B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "200006_1-G_1_3",
+				"fatherId": "200006_1-G_1",
+				"questionId": "3",
+				"question": "If the four boys are assigned to consecutively numbered lockers and Juan is assigned to locker 5, then which one of the following is a complete and accurate list of lockers each of which CANNOT be a shared locker?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"locker 2",
+					"locker 4",
+					"locker 1, locker 2",
+					"locker 1, locker 4",
+					"locker 2, locker 4"
+				],
+				"answer": "D",
+				"explanation": "If four boys are assigned to consecutive lockers and Juan is on locker 5, that means last four lockers are for boys. Locker 1 will be left. Which can be assigned to Rachel since she doesn’t share a locker. Since Juan is on 5 that means locker 5 is shared. Since Nita and Rachel only girls left they have to share lockers one of them must be on locker 5. Since they can’t be on adjacent lockers locker 4 cannot be shared. Therefore locker 1 and 4 can’t be shared. Which means answer is D. {‘Answer’ : ‘D’}"
+			},
+			{
+				"id": "200006_1-G_1_4",
+				"fatherId": "200006_1-G_1",
+				"questionId": "4",
+				"question": "Once Rachel has been assigned to a locker, what is the maximum number of different lockers each of which could be the locker to which Juan is assigned?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"one",
+					"two",
+					"three",
+					"four",
+					"five"
+				],
+				"answer": "C",
+				"explanation": "Since Rachel is already assigned and Fred is on locker 3 and there’s no other lockers that needs to be assigned specifically, Juan can be assigned to one of three lockers which are left. Which means the Answer is C. {‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "200006_1-G_1_5",
+				"fatherId": "200006_1-G_1",
+				"questionId": "5",
+				"question": "If the first three lockers are assigned to girls, which one of the following must be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"Juan is assigned to locker 1.",
+					"Nita is assigned to locker 3.",
+					"Trisha is assigned to locker 1.",
+					"Juan is assigned to the same locker as Trisha.",
+					"Paul is assigned to the same locker as Trisha."
+				],
+				"answer": "A",
+				"explanation": "Since Rachel can’t share lockers, Nita and Trisha has to share lockers. Since They can’t be adjacent and all the girls are in first three lockers, they have to be on locker 1 and locker 3 with Rachel being on locker 2. Since fred is assigned to locker 3 and Juan must share a locker, Juan must be in locker 1. Therefore the Answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200006_1-G_1_6",
+				"fatherId": "200006_1-G_1",
+				"questionId": "6",
+				"question": "If lockers 1 and 2 are each assigned to one boy and are not shared lockers, then locker 4 must be assigned to",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"Juan",
+					"Paul",
+					"Rachel",
+					"Juan and Nita",
+					"Marc and Trisha"
+				],
+				"answer": "C",
+				"explanation": "Since two boys are in first lockers and they aren’t shared. Two of last three lockers has to be shared. Since there’s only three girls and Rachel cannot share a locker, Nita and Trisha has to share lockers. Since their lockers can’t be adjacent only possible lockers for them will be locker 3 and 5. Which leaves locker 4 for Rachel. Therefore the answer is C. {‘Answer’ : ‘C’}"
+			}
+		],
+		"fatherId": "200006_1-G",
+		"passageId": "1",
+		"passage": "Four boys—Fred, Juan, Marc, and Paul—and three girls—Nita, Rachel, and Trisha—will be assigned to a row of five adjacent lockers, numbered consecutively 1 through 5, arranged along a straight wall. The following conditions govern the assignment of lockers to the seven children: Each locker must be assigned to either one or two children, and each child must be assigned to exactly one locker. Each shared locker must be assigned to one girl and one boy. Juan must share a locker, but Rachel cannot share a locker. Nita's locker cannot be adjacent to Trisha's locker. Fred must be assigned to locker 3.",
+		"passageBreakdown" : "First let’s list down facts. There are two categories of participants as Boys and Girls with seven participants total. Boys – Fred, Juan, Marc, Paul Girls – Nita, Rachel, Trisha. They will be assigned to a row of five adjacent lockers on a straight wall numbered 1,2,3,4,5. Following are the rules that’s need to be followed. 1.Each locker must be assigned to either one or two children. 2.Each child must be assigned to exactly one locker. 3.Each shared locker must be assigned to one girl and one boy. 4.Juan must share a locker. 5.Rachel cannot share a locker. 6.Nita’s locker cannot be adjacent to Trisha’s locker. 7.Fred must be assigned to locker 3."
+	},
+	{
+		"id": "200006_1-G_2",
+		"questions": [
+			{
+				"id": "200006_1-G_2_7",
+				"fatherId": "200006_1-G_2",
+				"questionId": "7",
+				"question": "Which one of the following could be a complete and accurate list of the types of CDs that are on sale?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"new jazz, used jazz, used opera, used pop, new rap",
+					"new jazz, used pop, used rap, new soul",
+					"used opera, used pop, new rap, used rap",
+					"used opera, new pop, used pop, new soul",
+					"used jazz, used pop, new soul, used soul"
+				],
+				"answer": "E",
+				"explanation": "Since when both pop CDs are on sale all soul CDs has to be on sale, Answer D is false. Since when all jazz are on sale all types of rap must not be on sale, Answer A is false. Since when neither type of jazz is on sale new pop must be on sale, Answer C is false. Since when either type of rap is on sale, all types of soul must not be on sale, Answer B is false. Which leaves answer E which follows all rules. Therefore Answer is E. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200006_1-G_2_8",
+				"fatherId": "200006_1-G_2",
+				"questionId": "8",
+				"question": "If new soul is not on sale, then which one of the following must be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"New rap is not on sale.",
+					"New rap is on sale.",
+					"Used opera is not on sale.",
+					"At least one type of jazz is not on sale.",
+					"At least one type of pop is not on sale."
+				],
+				"answer": "E",
+				"explanation": "If new soul is not on sale and Used pop is on sale, that means new pop is not on sale. Therefore the answer at least one type of pop is not on sale must be true. Therefore, the Answer is E. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200006_1-G_2_9",
+				"fatherId": "200006_1-G_2",
+				"questionId": "9",
+				"question": "If both types of jazz are on sale, then which one of the following is the minimum number of types of new CDs that could be included in the sale?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"one",
+					"two",
+					"three",
+					"four",
+					"five"
+				],
+				"answer": "A",
+				"explanation": "Used pop is on sale and if both types of jazz are on sale, that means three CDs are already on sale. Since all Jazz are on sale none of the rap will be on sale. There’s no other conditions that makes other CDs must be on sale. In these three types CDs that are on sale, there’s only one new type. Which makes the answer One. Therefore, Answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200006_1-G_2_10",
+				"fatherId": "200006_1-G_2",
+				"questionId": "10",
+				"question": "Which one of the following CANNOT be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Neither type of opera and neither type of rap is on sale.",
+					"Neither type of jazz and neither type of opera is on sale.",
+					"Neither type of opera and neither type of soul is on sale.",
+					"Neither type of jazz and neither type of soul is on sale.",
+					"Neither type of jazz and neither type of rap is on sale."
+				],
+				"answer": "D",
+				"explanation": "When Neither type of Jazz are on sale, that means new pop is on sale. Which means both pop types areon sales. That puts all soul types are on sale. There for Neither type jazz and neither type of soul can’t be on sale at the same time. Which makes the Answer D cannot be true. Therefore, the Answer is D. {‘Answer’ : ‘D’}"
+			},
+			{
+				"id": "200006_1-G_2_11",
+				"fatherId": "200006_1-G_2",
+				"questionId": "11",
+				"question": "If neither type of jazz is on sale, then each of the following must be true EXCEPT:",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Used opera is on sale.",
+					"New rap is not on sale.",
+					"Used rap is not on sale.",
+					"New soul is on sale.",
+					"Used soul is on sale."
+				],
+				"answer": "A",
+				"explanation": "If neither type of jazz is on true, new pop will be on sales, which makes all types of pop are on sale. That means all types of soul are on sale. Which means neither type of Rap on sale. Which makes Answers B, C, D and E must be true. Which leaves answer A which doesn’t have a need that states it must be true. Therefore Answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200006_1-G_2_12",
+				"fatherId": "200006_1-G_2",
+				"questionId": "12",
+				"question": "If new soul is the only type of new CD on sale, then which one of the following CANNOT be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Used jazz is not on sale.",
+					"Used opera is not on sale.",
+					"Used rap is not on sale.",
+					"Used soul is on sale.",
+					"Used soul is not on sale."
+				],
+				"answer": "A",
+				"explanation": "If neither type of Jazz is not on sale, New pop is on sale. But here only new soul is the New type of CD that’s on sale. That means used jazz has to be sale. Therefore answer A cannot be true. Therefore the Answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200006_1-G_2_13",
+				"fatherId": "200006_1-G_2",
+				"questionId": "13",
+				"question": "If exactly four of the five types of used CDs are the only CDs on sale, then which one of the following could be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Used jazz is not on sale.",
+					"Used opera is not on sale.",
+					"Used rap is not on sale.",
+					"Neither type of jazz is on sale.",
+					"Neither type of rap and neither type of soul is on sale."
+				],
+				"answer": "C",
+				"explanation": "Since there’s no New types of CDs on sale, used jazz has to be on sale since otherwise new pop will be on sale. Which makes Answer A and D false. If neither types of rap and neither types of soul are on sale that only leave with three used Cd types. Which means Answer E is false. If used opera is not on sale that means used rap has to be on sale to meat 4 used cd count. But if used rap is on sale, all types of soul will not be on sale and that makes used CDs on sale count 3. Which means B cannot be true. Which leaves with Answer C which can be true. Answer is C. {‘Answer’ : ‘C’}"
+			}
+		],
+		"fatherId": "200006_1-G",
+		"passageId": "2",
+		"passage": "A music store carries exactly ten types of CDs—both new and used of each of jazz, opera, pop, rap, and soul. The store is having a sale on some of these types of CDs. The following conditions must apply: Used pop is on sale; new opera is not. If both types of pop are on sale, then all soul is. If both types of jazz are on sale, then no rap is. If neither type of jazz is on sale, then new pop is. If either type of rap is on sale, then no soul is.",
+		"passageBreakdown": "First let’s list down facts. A music store has exactly ten types of CDs. They can be divided into two categories as New and Used. Ten types of CDs are: New jazz, used jazz, new opera, used opera, new pop, used pop, new rap, used rap, new sole, used sole. Following are the rules that need to be followed: 1. Used pop is on sale. 2. New opera is not on sale. 3. If both used pop and new pop is on sale, then all types of souls are on sale. Which means if both used pop and new pop is on sale, both new sole and used sole will also be on sale. 4. If both used jazz and new jazz is on sale, then all types of rap will not be on sale. Which means if both used jazz and new jazz is on sale, both new rap and used rap will not be on sale. 5. If neither type of jazz is on sale, then new pop is on sale. Which means if both new jazz and used jazz is not on sale, then new pop is on sale. 6. If either type of rap is on sale, then all types of soul will not be on sale. Which means if new rap or used rap is on sale, then both new soul and used soul will not be on sale."
+	},
+	{
+		"id": "200006_1-G_3",
+		"questions": [
+			{
+				"id": "200006_1-G_3_14",
+				"fatherId": "200006_1-G_3",
+				"questionId": "14",
+				"question": "Which one of the following CANNOT be true of the week's tour schedule?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"The division that is toured on Monday is also toured on Tuesday.",
+					"The division that is toured on Monday is also toured on Friday.",
+					"The division that is toured on Tuesday is also toured on Thursday.",
+					"The division that is toured on Wednesday is also toured on Friday.",
+					"The division that is toured on Thursday is also toured on Friday."
+				],
+				"answer": "C",
+				"explanation": "Since sales has to be toured on two consecutive days, there will be no space left to tour sales if a division conducted tours on Tuesday and Thursday. Which means Answer C cannot be true. Therefore Answer is C. {‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "200006_1-G_3_15",
+				"fatherId": "200006_1-G_3",
+				"questionId": "15",
+				"question": "If in addition to the Sales division one other division is toured on two consecutive days, then it could be true of the week's tour schedule both that the",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"Production division is toured on Monday and that the Operations division is toured on Thursday",
+					"Production division is toured on Tuesday and that the Sales division is toured on Wednesday",
+					"Operations division is toured on Tuesday and that the Production division is toured on Friday",
+					"Sales division is toured on Monday and that the Operations division is toured on Friday",
+					"Sales division is toured on Wednesday and that the Production division is toured on Friday"
+				],
+				"answer": "B",
+				"explanation": "When considering the answers if production division is toured on Monday and Tuesday while sales division is toured on Wednesday and Thursday operations and operations is toured on Friday, answer B can be true. Therefore, the answer is Answer B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "200006_1-G_3_16",
+				"fatherId": "200006_1-G_3",
+				"questionId": "16",
+				"question": "If in the week's tour schedule the division that is toured on Tuesday is also toured on Friday, then for which one of the following days must a tour of the Production division be scheduled?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"Monday",
+					"Tuesday",
+					"Wednesday",
+					"Thursday",
+					"Friday"
+				],
+				"answer": "A",
+				"explanation": "According to the question sales must be toured on Wednesday and Thursday. If another division is toured on Tuesday and Friday, last one should be toured on Monday. Since operations cant tour on Monday the Monday tour should be productions. Which means answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200006_1-G_3_17",
+				"fatherId": "200006_1-G_3",
+				"questionId": "17",
+				"question": "If in the week's tour schedule the division that is toured on Monday is not the division that is toured on Tuesday, then which one of the following could be true of the week's schedule?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"A tour of the Sales division is scheduled for some day earlier in the week than is any tour of the Production division.",
+					"A tour of the Operations division is scheduled for some day earlier in the week than is any tour of the Production division.",
+					"The Sales division is toured on Monday.",
+					"The Production division is toured on Tuesday.",
+					"The Operations division is toured on Wednesday."
+				],
+				"answer": "E",
+				"explanation": "According to the question and since operations can’t tour on Monday, production should tour on Monday. If production tours on Monday and operations tour on Tuesday and Wednesday while sales tour on Thursday and Friday, the schedule will be valid. Since question asks which answer could be true and operations can be toured on Wednesday, the answer is E. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200006_1-G_3_18",
+				"fatherId": "200006_1-G_3",
+				"questionId": "18",
+				"question": "If in the week's tour schedule the division that is toured on Tuesday is also toured on Wednesday, then which one of the following must be true of the week's tour schedule?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"The Production division is toured on Monday.",
+					"The Operations division is toured on Tuesday.",
+					"The Sales division is toured on Wednesday.",
+					"The Sales division is toured on Thursday.",
+					"The Production division is toured on Friday."
+				],
+				"answer": "A",
+				"explanation": "If the division that is toured on Tuesday is toured on Wednesday that means sales division can’t be on Monday since what tours on monday can’t tour on Tuesday. Since Operations can’t tour on Monday production must be toured on Monday. Which means answer is A. {‘Answer’ : ‘A’}"
+			}
+		],
+		"fatherId": "200006_1-G",
+		"passageId": "3",
+		"passage": "During a single week, from Monday through Friday, tours will be conducted of a company's three divisions—Operations, Production, and Sales. Exactly five tours will be conducted that week, one each day. The schedule of tours for the week must conform to the following restrictions: Each division is toured at least once. The Operations division is not toured on Monday. The Production division is not toured on Wednesday. The Sales division is toured on two consecutive days, and on no other days. If the Operations division is toured on Thursday, then the Production division is toured on Friday.",
+		"passageBreakdown": "First let’s list down facts. On a single week from Monday to Friday, three divisions of a company will have tours. Therefore the days that will have a tour are Monday, Tuesday, Wednesday, Thursday, and Friday. The three divisions are Operations, Production, and Sales. Exactly five tours will be conducted that week, one for each day. Following are the rules that need to be followed: 1. Each division is toured at least once. 2. The Operations division is not toured on Monday. 3. The Production division is not toured on Wednesday. 4. The Sales division is toured on two consecutive days and on no other days. 5. If the Operations division is toured on Thursday, then the Production division is toured on Friday."
+	},
+	{
+		"id": "200006_1-G_4",
+		"questions": [
+			{
+				"id": "200006_1-G_4_19",
+				"fatherId": "200006_1-G_4",
+				"questionId": "19",
+				"question": "Which one of the following could be a complete and accurate list of the members of the crew?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"George, Helena, Inga, Kelly",
+					"George, Helena, Kelly, Leanda",
+					"Helena, Inga, Kelly, Olaf",
+					"Helena, Inga, Maricita, Olaf",
+					"George, Helena, Leanda, Maricita, Olaf"
+				],
+				"answer": "B",
+				"explanation": "There are five tasks to be done in three days. There’s no one in answer A to  do wallboarding. There’s enough crew to perform all the tasks in Answer B.  There’s no one to do taping in answer C and D. There’s no one to do framing in answer E. Therefore answer is B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "200006_1-G_4_20",
+				"fatherId": "200006_1-G_4",
+				"questionId": "20",
+				"question": "If the installation takes three days, and if the same two crew members work on the first and third days, then which one of the following could be the pair of crew members who work on those two days?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"Helena and Inga",
+					"Inga and Kelly",
+					"Inga and Leanda",
+					"Kelly and Olaf",
+					"Leanda and Olaf"
+				],
+				"answer": "D",
+				"explanation": "If installation takes three days and if same two members work on first and third days that means theres two tasks on first day and two tasks on third day. Which means framing and wallboarding on first day and sanding and priming on third day. Only olaf and Kelly can do all four of these. Therefore, answer is D. {‘Answer’ : ‘D’}"
+			},
+			{
+				"id": "200006_1-G_4_21",
+				"fatherId": "200006_1-G_4",
+				"questionId": "21",
+				"question": "Each of the following could be a complete and accurate list of the members of the crew EXCEPT:",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"Helena, Inga, Kelly, Maricita",
+					"Inga, Kelly, Leanda, Olaf",
+					"George, Helena, Inga, Leanda",
+					"Inga, Leanda, Maricita, Olaf",
+					"Kelly, Leanda, Maricita, Olaf"
+				],
+				"answer": "A",
+				"explanation": "To be a complete and accurate list of crew members ther should be members to perform all the tasks. Answer A doesn’t have a member to do taping. Other answers have members for all the tasks. Therefore Each of the above could be a complete and accurate list of the members of the crew EXCEPT Answer A. Hence the Answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200006_1-G_4_22",
+				"fatherId": "200006_1-G_4",
+				"questionId": "22",
+				"question": "If the installation takes three days, and if the sanding is done on the third day, then which one of the following could be a list of all the crew members who work on the second day?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"Inga",
+					"Kelly",
+					"Olaf",
+					"George and Helena",
+					"Leanda and Olaf"
+				],
+				"answer": "E",
+				"explanation": "If installation takes three days and sanding is done in third day that means sanding and priming is done in third day. Since framing is the first task it has to be done in first day. Since taping is the third task and theres atleas one task per day taping is done on second day. Inga, Kelly olaf can’t do taping. If two crew members are working on second day that means both wallboarding and taping is done on second day. If George and Helena works on second day there’s no one to do wallboarding. Therefore the answer is Leanda and Olaf. Which means the answer is E. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200006_1-G_4_23",
+				"fatherId": "200006_1-G_4",
+				"questionId": "23",
+				"question": "Which one of the following could be a pair of members of the crew both of whom work on the same days as each other and each of whom perform two tasks?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"",
+					"simple ordering",
+					""
+				],
+				"options": [
+					"George and Maricita",
+					"Helena and Kelly",
+					"Inga and Leanda",
+					"Kelly and Leanda",
+					"Leanda and Olaf"
+				],
+				"answer": "D",
+				"explanation": "If both work on same day and each performs two tasks, that means this two crew members will do four tasks in two days. Therefore they should be capable of four tasks when put together. George and Maricita is capable of only 2 tasks together. Helena and Kelly capable of only three tasks together. Inga and Leanda only capable of four tasks together. But those four are wallboarding, framing, taping and priming. Since there should be atleas two tasks per two days and according to the order wallboarding and framing should be done on the first day and according to the rules taping can’t be done on the day that priming is done. Which means Inga and Leanda also not possible. Kelly and Leanda are capable of four tasks which are compatible. Leanda and Olaf also only capable of three tasks. Which makes the Answer D. {‘Answer’ : ‘D’}"
+			}
+		],
+		"fatherId": "200006_1-G",
+		"passageId": "4",
+		"passage": "A crew of up to five workers is to install a partition in at most three days. The crew completes five tasks in this order: framing, wallboarding, taping, sanding, priming. The crew is selected from the following list, which specifies exactly the tasks each person can do: George: taping Helena: sanding, priming Inga: framing, priming Kelly: framing, sanding Leanda: wallboarding, taping Maricita: sanding Olaf: wallboarding, priming The following conditions must apply: At least one task is done each day. Taping and priming are done on different days. Each crew member does at least one task during the installation, but no more than one task a day. Each task is done by exactly one worker, completed the day it is started and before the next task begins.",
+		"passageBreakdown": "First let’s list down facts. The Crew can have up to five workers. The Crew have to install a partition in at most three days (day 1, day 2, day 3). The crew completes five tasks in this order: framing, wallboarding, taping, sanding, priming. The crew is selected from the following list which states people with their name and the tasks they do: 1. George: taping 2. Helena: sanding, priming 3. Inga: framing, priming 4. Kelly: framing, sanding 5. Lenda: wallboarding, taping 6. Maricita: sanding 7. Olaf: wallboarding, priming Following are the rules that need to be followed: 1. At least one task is done each day. 2. Taping and priming are done on different days. 3. Each crew member does at least one task during the installation, but no more than one task a day. 4. Each task is done by exactly one worker who will complete it the day it started and before the next task begins."
+	},
+	{
+		"id": "200310_2-G_1",
+		"questions": [
+			{
+				"id": "200310_2-G_1_1",
+				"fatherId": "200310_2-G_1",
+				"questionId": "1",
+				"question": "Which one of the following could be an accurate matching of the hangers to the fabrics of the dresses that hang on them?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"acceptability",
+					"relative ordering",
+					""
+				],
+				"options": [
+					"1: wool; 2: gauze; 3: silk; 4: linen; 5: polyester; 6: rayon",
+					"1: rayon; 2: wool; 3: gauze; 4: silk; 5: linen; 6: polyester",
+					"1: polyester; 2: gauze; 3: wool; 4: silk; 5: linen; 6: rayon",
+					"1: linen; 2: silk; 3: wool; 4: gauze; 5: polyester; 6: rayon",
+					"1: gauze; 2: rayon; 3: silk; 4: linen; 5: wool; 6: polyester"
+				],
+				"answer": "A",
+				"explanation": "The answer should follow all the conditions. Answer A follow all the conditions. Answer B doesn’t have wool or silk in hanger 3. In Answer C Gauze is on a higher numbered hanger than the polyester dress.  Answer D has linen on left of silk instead of right. On Answer E rayon dress is on hanger 2 instead of being on 1 or 6. Therefore the Answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200310_2-G_1_2",
+				"fatherId": "200310_2-G_1",
+				"questionId": "2",
+				"question": "If both the silk dress and the gauze dress are on odd-numbered hangers, then which one of the following could be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” / could be true",
+					"relative ordering",
+					""
+				],
+				"options": [
+					"The polyester dress is on hanger 1.",
+					"The wool dress is on hanger 2.",
+					"The polyester dress is on hanger 4.",
+					"The linen dress is on hanger 5.",
+					"The wool dress is on hanger 6."
+				],
+				"answer": "B",
+				"explanation": "Answer A can’t be true since there should be a lower number than the hanger that the polyester is on for the gauze dress. Answer B can be true when wool is on hanger 2, silk is on hanger 3,  linen is on hanger 4, polyester is on hanger 5, gauze is on hanger 1 and rayon is on hanger 6. Therefore the Answer is Answer B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "200310_2-G_1_3",
+				"fatherId": "200310_2-G_1",
+				"questionId": "3",
+				"question": "If the silk dress is on an even-numbered hanger, which one of the following could be on the hanger immediately to its left?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” / could be true",
+					"relative ordering",
+					""
+				],
+				"options": [
+					"the gauze dress",
+					"the linen dress",
+					"the polyester dress",
+					"the rayon dress",
+					"the wool dress"
+				],
+				"answer": "E",
+				"explanation": "If silk is on even numbered hanger, there should be space for linen on it’s right which means it can’ be 6since it’s the las, and it can’t also be 2 since only wool or silk can be on three. Therefore, silk is on 4 and linen will be on 5 and since only wool or silk can be on 3 wool be on 3 and wool will be the one lo the left of silk. Therefore the answer is E, the wool dress. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200310_2-G_1_4",
+				"fatherId": "200310_2-G_1",
+				"questionId": "4",
+				"question": "If the polyester dress is on hanger 2, then which one of the following must be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be true",
+					"relative ordering",
+					""
+				],
+				"options": [
+					"The silk dress is on hanger 1.",
+					"The wool dress is on hanger 3.",
+					"The linen dress is on hanger 4.",
+					"The linen dress is on hanger 5.",
+					"The rayon dress is on hanger 6."
+				],
+				"answer": "E",
+				"explanation": "If polyester dress is on hanger 2, gauze must be on hanger 1. That means Rayon must be on hanger 6. Which means Answer E – The rayon dress is on hanger 6 must be true. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200310_2-G_1_5",
+				"fatherId": "200310_2-G_1",
+				"questionId": "5",
+				"question": "Which one of the following CANNOT be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be false",
+					"relative ordering",
+					""
+				],
+				"options": [
+					"The linen dress hangs immediately next to the gauze dress.",
+					"The polyester dress hangs immediately to the right of the rayon dress.",
+					"The rayon dress hangs immediately to the left of the wool dress.",
+					"The silk dress is on a lower-numbered hanger than the gauze dress.",
+					"The wool dress is on a higher-numbered hanger than the rayon dress."
+				],
+				"answer": "B",
+				"explanation": "If polyester dress hangs immediately to the right of the rayon dress rayon can’t be on 6 since it’s the last one. Which means rayon is on 1 and polyester is on 2, And since the gauze dress is on a lower numbered hanger than the polyester dress there’s no room for gauze and therefore B cannot be true. The answer is B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "200310_2-G_1_6",
+				"fatherId": "200310_2-G_1",
+				"questionId": "6",
+				"question": "Which one of the following CANNOT hang immediately next to the rayon dress?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be false",
+					"relative ordering",
+					""
+				],
+				"options": [
+					"the gauze dress",
+					"the linen dress",
+					"the polyester dress",
+					"the silk dress",
+					"the wool dress"
+				],
+				"answer": "D",
+				"explanation": "If silk hangs immediately next to rayon that means rayon has to be on left of silk since linen is on right of silk. Which means rayon can’t be on 6 since it’s the last and it should be on 1. That means silk on 2 and linen on 3 which is wrong since wool or silk has to be on 3. Therefore Answer D cannot be true. Answer is D. {‘Answer’ : ‘D’}"
+			},
+			{
+				"id": "200310_2-G_1_7",
+				"fatherId": "200310_2-G_1",
+				"questionId": "7",
+				"question": "Assume that the original condition that the linen dress hangs immediately to the right of the silk dress is replaced by the condition that the wool dress hangs immediately to the right of the silk dress. If all the other initial conditions remain in effect, which one of the following must be false?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be false / changed condition",
+					"relative ordering",
+					""
+				],
+				"options": [
+					"The linen dress is on hanger 1.",
+					"The gauze dress is on hanger 2.",
+					"The wool dress is on hanger 4.",
+					"The silk dress is on hanger 5.",
+					"The polyester dress is on hanger 6."
+				],
+				"answer": "D",
+				"explanation": "If wool dress has to be on the right of the silk dress, when silk is on hanger 5 wool will be on hanger 6. Which means neither of them will be on hanger 3 and therefore silk cannot be on hanger 5. Which means Answer D must be false. {‘Answer’ : ‘D’}"
+			}
+		],
+		"fatherId": "200310_2-G",
+		"passageId": "1",
+		"passage": "A closet contains exactly six hangers—1, 2, 3, 4, 5, and 6—hanging, in that order, from left to right. It also contains exactly six dresses—one gauze, one linen, one polyester, one rayon, one silk, and one wool—a different dress on each of the hangers, in an order satisfying the following conditions: The gauze dress is on a lower-numbered hanger than the polyester dress. The rayon dress is on hanger 1 or hanger 6. Either the wool dress or the silk dress is on hanger 3. The linen dress hangs immediately to the right of the silk dress.",
+		"passageBreakdown": "First let’s list down facts. A closet contains exactly six hangers – 1, 2, 3, 4, 5, and 6 in that order from left to right. It also contains exactly six dresses as a different dress on each hanger – one gauze, one linen, one polyester, one rayon, one silk, and one wool. Following are the rules that need to be followed: 1. The gauze dress is on a lower-numbered hanger than the polyester dress. 2. The rayon dress is on hanger 1 or hanger 6. 3. Either the wool dress or the silk dress is on hanger 3. 4. The linen dress hangs immediately to the right of the silk dress."
+	},
+	{
+		"id": "200310_2-G_2",
+		"questions": [
+			{
+				"id": "200310_2-G_2_8",
+				"fatherId": "200310_2-G_2",
+				"questionId": "8",
+				"question": "Which one of the following could be an accurate matching of the four songs performed at the festival with the instruments on which they are performed, listed in order from the first song performed to the last?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"acceptability",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"\"Night's All Right\": guitar;\" Question Man\": keyboard; \"Sammy\": guitar;\" Rhino Rock\": flute",
+					"\"Question Man\": guitar;\" Rhino Rock\": harmonica; \"Sammy\": keyboard;\" Night's All Right\": flute",
+					"\"Rhino Rock\": flute;\" Question Man\": keyboard; \"Night's All Right\": harmonica;\" Sammy\": guitar",
+					"\"Sammy\": harmonica;\" Night's All Right\": guitar; \"Question Man\": keyboard;\" Rhino Rock\": flute",
+					"\"Sammy\": harmonica;\" Rhino Rock\": guitar; \"Question Man\": flute;\" Night's All Right\": keyboard"
+				],
+				"answer": "B",
+				"explanation": "Since first song can’t be on flute answer C can’t be true. When question man is on keyboard night all right has to be on flute. That means answer A and D can’t be true. Since the song on keyboard immediately follows rhino rock answer E can’t be true. Which means the Answer is B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "200310_2-G_2_9",
+				"fatherId": "200310_2-G_2",
+				"questionId": "9",
+				"question": "Which one of the following could be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” / could be true",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"\"Question Man\" immediately follows the song performed on the keyboard.",
+					"\"Night's All Right\" immediately precedes the song performed on the keyboard.",
+					"\"Question Man\" immediately precedes the song performed on the guitar.",
+					"\"Rhino Rock\" immediately precedes the song performed on the harmonica.",
+					"\"Sammy\" immediately precedes the song performed on the guitar."
+				],
+				"answer": "E",
+				"explanation": "Since song performed on the keyboard immediately precedes Night’s all right and immediately follows Rhino Rock, Answer A, B and D can’t be true. This also means rhino rock and night all right won’t be played on keyboard. If question man plays on keyboard night all right which is played immediately after question man is played on flute. If question man is played not played on keyboard Sammy will be on keyboard and that means rhino rock will be on harmonica. In that case Since rhino rock, keyboard song and night all right has to be consecutive, to have a song after Question man it should be played first and before Rhino rock. Since in this case rhino rock is on harmonica Answer C can’t be true. Which leaves Answer E as the one can be true. Answer is Answer E. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200310_2-G_2_10",
+				"fatherId": "200310_2-G_2",
+				"questionId": "10",
+				"question": "Which one of the following CANNOT be true of the song performed on the flute?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be false",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"It immediately precedes \"Question Man.\"",
+					"It immediately follows \"Question Man.\"",
+					"It immediately precedes \"Rhino Rock.\"",
+					"It immediately follows \"Night's All Right.\"",
+					"It immediately follows \"Sammy.\""
+				],
+				"answer": "C",
+				"explanation": "Since rhino rock, key board song and nights all right has to be consecutive in this order, if the flute song immediately precedes rhino rock it has to be the first song. Since first song can’t be on flue Answer C cannot be true. Answer is C. {‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "200310_2-G_2_11",
+				"fatherId": "200310_2-G_2",
+				"questionId": "11",
+				"question": "If \"Rhino Rock\" is the second song performed at the festival, then which one of the following could be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” / could be true",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"The first song performed is performed on the keyboard.",
+					"The third song performed is performed on the guitar.",
+					"The third song performed is performed on the flute.",
+					"\"Night's All Right\" is performed on the guitar.",
+					"\"Rhino Rock\" is performed on the guitar."
+				],
+				"answer": "E",
+				"explanation": "Since rhino rock, key board song and nights all right has to be consecutive in this order, if rhino rock is the second song third song will be on keyboard. Which means Answers A, B and C false. Since first song can’t be on flute and third must be on keyboard first has to be on either guitar or harmonica. If Sammy is on keyboard Rihno rock is on harmonica which means night all right’s on flute. If Question man is on keyboard night all right will be on flute and therefore Answer D is false. Which means only answer E is correct. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200310_2-G_2_12",
+				"fatherId": "200310_2-G_2",
+				"questionId": "12",
+				"question": "If \"Question Man\" is the third song performed at the festival, then each of the following could be true EXCEPT:",
+				"isExcept": "",
+				"tags": [
+					"",
+					"could be true except",
+					"complex ordering",
+					""
+				],
+				"options": [
+					"\"Question Man\" is performed on the guitar.",
+					"\"Question Man\" is performed on the keyboard.",
+					"\"Rhino Rock\" is performed on the guitar.",
+					"\"Sammy\" is performed on the guitar.",
+					"\"Sammy\" is performed on the harmonica."
+				],
+				"answer": "A",
+				"explanation": "Since rhino rock, key board song and nights all right has to be consecutive in this order and there’s only four songs, for question man to be the third song it should be on keyboard and rhino rock will be the second one and night all right will be the fourth one. Therefore question man should be on keyboard and it cannot be on guitar which makes answer A false. Answer is Answer A. {‘Answer’ : ‘A’}"
+			}
+		],
+		"fatherId": "200310_2-G",
+		"passageId": "2",
+		"passage": "At a children's festival, exactly four songs are performed, each exactly once: \"Night's All Right,\" \"Question Man,\" \"Rhino Rock,\" and \"Sammy.\" The songs are performed consecutively, each on a different one of exactly four instruments: flute, guitar, harmonica, or keyboard. The songs are performed in accordance with the following: The first song performed is not performed on the flute. If \"Sammy\" is performed on the keyboard, then \"Rhino Rock\" is performed on the harmonica. If \"Question Man\" is performed on the keyboard, then \"Night's All Right\" is performed on the flute. The song performed on the keyboard immediately follows \"Rhino Rock\" and immediately precedes \"Night's All Right.\"",
+		"passageBreakdown": "First let’s list down facts. At a children’s festival, exactly four songs are performed, each exactly once. The songs are 'Night's All Right', 'Question Man', 'Rhino Rock', and 'Sammy.' The songs are performed consecutively, each on a different one of exactly four instruments. The instruments are flute, guitar, harmonica, or keyboard. The songs have to be assigned to the slots First Song, Second Song, Third Song, and Fourth Song in a possible order. Following are the rules that need to be followed: 1. The first song performed is not performed on the flute. 2. If 'Sammy' is performed on the keyboard, then 'Rhino Rock' is performed on the harmonica. 3. If 'Question Man' is performed on the keyboard, then 'Night's All Right' is performed on the flute. 4. The song performed on the keyboard immediately follows 'Rhino Rock' and immediately precedes 'Night's All Right.'"
+	},
+	{
+		"id": "200310_2-G_3",
+		"questions": [
+			{
+				"id": "200310_2-G_3_13",
+				"fatherId": "200310_2-G_3",
+				"questionId": "13",
+				"question": "Which one of the following could be a complete and accurate list of the members of the finance committee?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"partial acceptability",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Guzman, Hawking, Miyauchi, Wharton",
+					"Guzman, Lepp, Zhu",
+					"Hawking, Miyauchi, Zhu",
+					"Hawking, Upchurch, Wharton, Zhu",
+					"Miyauchi, Upchurch, Wharton"
+				],
+				"answer": "E",
+				"explanation": "If guzman on finance committee hawking will be on incentives. Which means Answer A is false. Wharton serves on a different committee than zhu which means answer D is false. If zhu is on finance committee so is hawkings which means answer B is false. If guzman is on incentives upchurch should be on fincance. Which makes answer C false. Which leaves answer E which must be the answer that could be true. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "200310_2-G_3_14",
+				"fatherId": "200310_2-G_3",
+				"questionId": "14",
+				"question": "Which one of the following pairs of board members CANNOT both serve on the incentives committee?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"cannot be true",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Guzman and Hawking",
+					"Guzman and Wharton",
+					"Hawking and Wharton",
+					"Miyauchi and Upchurch",
+					"Miyauchi and Wharton"
+				],
+				"answer": "C",
+				"explanation": "In answer C if whaton on incentives, zhu will be on finance. If zhu is on finance, hawking should be on finance. Which makes it impossible for both hawking and Wharton to be incentives at the same time. Therefore the answer is C. {‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "200310_2-G_3_15",
+				"fatherId": "200310_2-G_3",
+				"questionId": "15",
+				"question": "What is the maximum number of members on the finance committee?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"maximum possible number",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"two",
+					"three",
+					"four",
+					"five",
+					"six"
+				],
+				"answer": "C",
+				"explanation": "Since if Guzman and Hawking cant be together on finance, only one of them can be taken. From the second rule Lepp cant be together with Miyauchi and Upchurch on finance. To get max member count on finance we’ll put Lepp on incentives. Since upchurch can’t be together with Guzman first person should be hawkings. If we put one of zhu and wahrton on finance now we have four members while following rules. This makes in incentives there must be Guzman, Lepp and one of Zhu and Wahrton. Which makes the max member count of fincance committee is four. Therefore the answer is C.{‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "200310_2-G_3_16",
+				"fatherId": "200310_2-G_3",
+				"questionId": "16",
+				"question": "If Miyauchi and Wharton both serve on the finance committee, then which one of the following could be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” / could be true",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Guzman and Lepp both serve on the finance committee.",
+					"Guzman and Upchurch both serve on the incentives committee.",
+					"Hawking and Zhu both serve on the finance committee.",
+					"Lepp and Upchurch both serve on the incentives committee.",
+					"Zhu and Upchurch both serve on the finance committee."
+				],
+				"answer": "D",
+				"explanation": "If Miyauchi works on finance committee that means Lepp on incentives. Which makes Answer A false.  Upchurch and Guzman can’t be on a single committee which makes Answer B false. If Wharton on finance committee zhu will be on incentives. Which makes Answer C and E false. The only answer left is Answer D, which must be the one that could be true. Therefore the answer is Answer D. {‘Answer’ : ‘D’}"
+			},
+			{
+				"id": "200310_2-G_3_17",
+				"fatherId": "200310_2-G_3",
+				"questionId": "17",
+				"question": "If Guzman serves on the incentives committee, then which one of the following must be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be true",
+					"in/out grouping",
+					""
+				],
+				"options": [
+					"Hawking serves on the finance committee.",
+					"Lepp serves on the incentives committee.",
+					"Miyauchi serves on the finance committee.",
+					"Wharton serves on the incentives committee.",
+					"Zhu serves on the finance committee."
+				],
+				"answer": "B",
+				"explanation": "If Guzman on incentives that means upchurch is on finance. That means Lepp is on incentives. Which means answer B must be true. Answer is B. {‘Answer’ : ‘B’}"
+			}
+		],
+		"fatherId": "200310_2-G",
+		"passageId": "3",
+		"passage": "Each of the seven members of the board of directors—Guzman, Hawking, Lepp, Miyauchi, Upchurch, Wharton, and Zhu—serves on exactly one of two committees—the finance committee or the incentives committee. Only board members serve on these committees. Committee membership is consistent with the following conditions: If Guzman serves on the finance committee, then Hawking serves on the incentives committee. If Lepp serves on the finance committee, then Miyauchi and Upchurch both serve on the incentives committee. Wharton serves on a different committee from the one on which Zhu serves. Upchurch serves on a different committee from the one on which Guzman serves. If Zhu serves on the finance committee, so does Hawking.",
+		"passageBreakdown": "First let’s list down facts. There are seven members in the board of directors. The members are Guzman, Hawking, Lepp, Miyauchi, Upchurch, Wharton, and Zhu. Each member serves on exactly one of two committees. Two committees are Finance committee and Incentives committee. Only board members serve on these committees. Following are the rules that need to be followed: 1. If Guzman serves on the finance committee, then Hawking serves on the incentives committee. 2. If Lepp serves on the finance committee, then Miyauchi and Upchurch both serve on the incentives committee. 3. Wharton serves on a different committee from the one on which Zhu serves. 4. Upchurch serves on a different committee from the one on which Guzman serves. 5. If Zhu serves on the finance committee, so does Hawking."
+	},
+	{
+		"id": "200310_2-G_4",
+		"questions": [
+			{
+				"id": "200310_2-G_4_18",
+				"fatherId": "200310_2-G_4",
+				"questionId": "18",
+				"question": "Which one of the following could be the order in which four of the people are seated, with no one else seated between them, counting clockwise around the table?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"partial acceptability",
+					"miscellaneous",
+					""
+				],
+				"options": [
+					"George, Peter, Karl, Fiona",
+					"Harriet, Olivia, Ingrid, Karl",
+					"Ingrid, Fiona, Peter, Manuel",
+					"Olivia, Manuel, Karl, George",
+					"Peter, Harriet, Karl, Fiona"
+				],
+				"answer": "C",
+				"explanation": "To be directly across from each other there should be exactly three people in between them. Since Fiona sits directly across from George There should be three people in between which makes answer A False. Since harriet can’t be next to karl answer E is false. Since Ingrid sits immediately next to, and immediately clockwise from, Olivia Answer D is false. Since there’s only eight people and to be directly across from each other there should be exactly three people in between them Fiona and George both cannot be in consecutive four people. Which means Answer B is false. That makes only Answer C left. Which means it must be the one that could be true. Therefore Answer is Answer C. {‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "200310_2-G_4_19",
+				"fatherId": "200310_2-G_4",
+				"questionId": "19",
+				"question": "If Harriet and Olivia each sits immediately next to George, then which one of the following could be the two people each of whom sits immediately next to Peter?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” / could be true",
+					"miscellaneous",
+					""
+				],
+				"options": [
+					"Fiona and Karl",
+					"Fiona and Olivia",
+					"Harriet and Ingrid",
+					"Harriet and Karl",
+					"Karl and Manuel"
+				],
+				"answer": "D",
+				"explanation": "If Harriet and Olivia each sits immediately next to George, and since after Olivia theres Ingrid, harriet must be before George and Olivia must be after George in clockwise. After Olivia and Ingrid there’s another person and after there’s Fiona. And there’s another person. After that person there’s another person who isn’t karl before harriet. Therefore   there’s no positon for peter to be in between Fiona and karl, Fiona and Olivia, Harriet and Ingrid or karl and manuel. Which makes answer A, B, C and E false. That leaves answer D. which means it must be the one that could be true. Therefore Answer is Answer D. {‘Answer’ : ‘D’}"
+			},
+			{
+				"id": "200310_2-G_4_20",
+				"fatherId": "200310_2-G_4",
+				"questionId": "20",
+				"question": "If George does not sit immediately next to Harriet, then which one of the following could be the two people each of whom sits immediately next to Manuel?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” / could be true",
+					"miscellaneous",
+					""
+				],
+				"options": [
+					"Fiona and Harriet",
+					"Fiona and Peter",
+					"George and Karl",
+					"George and Peter",
+					"Harriet and Peter"
+				],
+				"answer": "A",
+				"explanation": "If George does not immediately sits next to Harriet that means if we assign values to positions as 1,2,3,4,5,6,7 and 8 and assume George is on 8 Harriet won’t be on 1 or 7. Fiona will be on 4. And since Harriet can’t be next to Fiona harriet won’t be on 3 or 5 which leaves only 2 and  6 for harriet. Since Ingrid sits immediately next to, and immediately clockwise from, Olivia, the possible assignments for Olivia and Ingrid in order of Olivia and Ingrid will be 1,2 or 2,3 or 5, 6 or 6,7. If Harriet is on 2 Ingrid and Olivia will be on 5,6 or 6,7 and If Harriet is on 6 Ingrid and Olivia will be on 1,2 and 2,3. Next to ingrid and Olivia will be kar and next to harriet will be Manuel and Peter. Which makes it impossible for manuel to be next to Fiona and Peter, George and Karl, George and Peter and Harriet and peter. It’s possible for manuel to be next to Fiona and Harriet and therefore the answer is Answer A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200310_2-G_4_21",
+				"fatherId": "200310_2-G_4",
+				"questionId": "21",
+				"question": "If Manuel sits immediately next to Olivia, then which one of the following people must sit immediately next to Fiona?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be true",
+					"miscellaneous",
+					""
+				],
+				"options": [
+					"Harriet",
+					"Ingrid",
+					"Karl",
+					"Manuel",
+					"Peter"
+				],
+				"answer": "C",
+				"explanation": "If Manuel sits immediately next to Olivia that means Manuel, Olivia and Ingrid will sit consecutively in that order clockwise. Which means they will be between George and Fiona on one side. From the other side since Harriett can’t sit next to carl or Fiona she has to be next to George and peter. So that on the other side Heriette, Peter, Karl will sit consecutively while karl is next to Fiona. Therefore the Answer is C karl. {‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "200310_2-G_4_22",
+				"fatherId": "200310_2-G_4",
+				"questionId": "22",
+				"question": "What is the minimum possible number of people sitting between Ingrid and Manuel, counting clockwise from Ingrid around the table?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"minimum possible number",
+					"miscellaneous",
+					""
+				],
+				"options": [
+					"zero",
+					"one",
+					"two",
+					"three",
+					"four"
+				],
+				"answer": "A",
+				"explanation": "Since there are three seats available between George and Fiona, It’s possible to sit in the order of Olivia, Ingrid and Manuel from George till Fiona in clockwise. Therefore Manuel can sit next to zero to make the people between them zero. Which means the answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "200310_2-G_4_23",
+				"fatherId": "200310_2-G_4",
+				"questionId": "23",
+				"question": "If Karl sits directly across from Ingrid, then each of the following people could sit immediately next to Olivia EXCEPT:",
+				"isExcept": "",
+				"tags": [
+					"",
+					"could be true / all except",
+					"miscellaneous",
+					""
+				],
+				"options": [
+					"Fiona",
+					"George",
+					"Harriet",
+					"Manuel",
+					"Peter"
+				],
+				"answer": "B",
+				"explanation": "If we assign values to seats as 1,2,3,4,5,6,7 and 8 and assume George is On 8 Fiona will be on 4. Since Ingrid next to Olivia in clockwise and Karl is directly across ingrid, to keep space for Hariette ingrid can’t be on 2 or 6. Which means Olivia will be on 2 or 6. Which means she’ll never be next to George and therefore, Answer is B George. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "200310_2-G_4_24",
+				"fatherId": "200310_2-G_4",
+				"questionId": "24",
+				"question": "If Karl sits directly across from Harriet, then what is the minimum possible number of people sitting between George and Karl, counting clockwise from George to Karl?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"minimum possible number",
+					"miscellaneous",
+					""
+				],
+				"options": [
+					"zero",
+					"one",
+					"two",
+					"three",
+					"four"
+				],
+				"answer": "C",
+				"explanation": "If we assign values to seats as 1,2,3,4,5,6,7 and 8 in a clockwise manner with and assume George is On 8 Fiona will be on 4. Since Ingrid next to Olivia in clockwise they’ll need two consecutive seats. Since Harriet can’t be on 3 or 5, to save two consecutive seats she has to be on either 7 or 1. Which puts Karl on 3 or 5. Since George is on 8 There will be at least two people. Therefore, The Answer is C. {‘Answer’ : ‘C’}"
+			}
+		],
+		"fatherId": "200310_2-G",
+		"passageId": "4",
+		"passage": "Eight people—Fiona, George, Harriet, Ingrid, Karl, Manuel, Olivia, and Peter—are sitting, evenly spaced, around a circular picnic table. Any two of them are said to be sitting directly across from one another if and only if there are exactly three other people sitting between them, counting in either direction around the table. The following conditions apply: Fiona sits directly across from George. Harriet sits immediately next to neither Fiona nor Karl. Ingrid sits immediately next to, and immediately clockwise from, Olivia.",
+		"passageBreakdown": "First let’s list down facts. Eight people sitting in a circular picnic table. Eight people are Fiona, George, Harriet, Ingrid, Karl, Manuel, Olivia, and Peter. Possible places for them to sit can be taken as first, second, third, fourth, fifth, sixth, seventh and eighth. Since this is a circular table, the first one is sitting next to the eighth one. Any two of them are said to be sitting directly across from one another if and only if there are exactly three other people sitting between them, counting in either direction around the table. Following are the rules that need to be followed: 1. Fiona sits directly across from George. 2. Harriet sits immediately next to neither Fiona nor Karl. 3. Ingrid sits immediately next to, and immediately clockwise from, Olivia."
+	},
+	{
+		"id": "201106_2-G_1",
+		"questions": [
+			{
+				"id": "201106_2-G_1_1",
+				"fatherId": "201106_2-G_1",
+				"questionId": "1",
+				"question": "Which one of the following is an acceptable set of appointments of candidates to courts?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"acceptability",
+					"",
+					""
+				],
+				"options": [
+					"appellate: Hamadi, Ortiz trial: Jefferson, Kurtz, Li, McDonnell, Perkins",
+					"appellate: Hamadi, Li, Perkins trial: Jefferson, Kurtz, McDonnell, Ortiz",
+					"appellate: Kurtz, Li, Perkins trial: Hamadi, Jefferson, McDonnell, Ortiz",
+					"appellate: Li, McDonnell, Ortiz trial: Hamadi, Jefferson, Kurtz, Perkins",
+					"appellate: Li, Perkins trial: Hamadi, Jefferson, Kurtz, McDonnell, Ortiz"
+				],
+				"answer": "E",
+				"explanation": "Li must be in appellate cort. Therefore Answer A is false. Kurt must be in trial therefore Answer C is false. Hamadi and Perkins can’t be in same court. Therefore D and B are false. Which leaves Answer E, which must be correct. Therefore the answer is Answer E. {‘Answer’ : ‘E’}"
+			},
+			{
+				"id": "201106_2-G_1_2",
+				"fatherId": "201106_2-G_1",
+				"questionId": "2",
+				"question": "Which one of the following CANNOT be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be false",
+					"",
+					""
+				],
+				"options": [
+					"Hamadi and McDonnell are both appointed to the appellate court.",
+					"McDonnell and Ortiz are both appointed to the appellate court.",
+					"Ortiz and Perkins are both appointed to the appellate court.",
+					"Hamadi and Jefferson are both appointed to the trial court.",
+					"Ortiz and Perkins are both appointed to the trial court."
+				],
+				"answer": "B",
+				"explanation": "Since Li must be in appellate court she must be in it. Since Hamadi and Perkins can’t be in the same court one of them must be in Appellate court. Which leaves only one spot left on appellate court. Therefore it’s not possible for Both McDonnell and Ortiz are both appointed to the appellate court. Which means Answer B cannot be true. Therefore the answer is B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "201106_2-G_1_3",
+				"fatherId": "201106_2-G_1",
+				"questionId": "3",
+				"question": "Which one of the following CANNOT be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be false",
+					"",
+					""
+				],
+				"options": [
+					"Jefferson and McDonnell are both appointed to the appellate court.",
+					"Jefferson and McDonnell are both appointed to the trial court.",
+					"McDonnell and Ortiz are both appointed to the trial court.",
+					"McDonnell and Perkins are both appointed to the appellate court.",
+					"McDonnell and Perkins are both appointed to the trial court."
+				],
+				"answer": "A",
+				"explanation": "Since Li must be in appellate court she must be in it. Since Hamadi and Perkins can’t be in the same court one of them must be in Appellate court. Which leaves only one spot left on appellate court. Therefore it’s not possible for Both Jefferson and McDonnell are both appointed to the appellate court. Which means Answer A cannot be true. Therefore the answer is A. {‘Answer’ : ‘A’}"
+			},
+			{
+				"id": "201106_2-G_1_4",
+				"fatherId": "201106_2-G_1",
+				"questionId": "4",
+				"question": "If Ortiz is appointed to the appellate court, which one of the following must be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” clause/must be true",
+					"",
+					""
+				],
+				"options": [
+					"Hamadi is appointed to the appellate court.",
+					"Jefferson is appointed to the appellate court.",
+					"Jefferson is appointed to the trial court.",
+					"Perkins is appointed to the appellate court.",
+					"Perkins is appointed to the trial court."
+				],
+				"answer": "C",
+				"explanation": "Since Li must be in appellate court she must be in it. Since Hamadi and Perkins can’t be in the same court one of them must be in Appellate court. Which leaves only one spot left on appellate court. And since Ortiz is also appointed to the appellate court to fill the third position, Jefferson must be on trial court. Therefore Answer is C. {‘Answer’ : ‘C’}"
+			},
+			{
+				"id": "201106_2-G_1_5",
+				"fatherId": "201106_2-G_1",
+				"questionId": "5",
+				"question": "Which one of the following, if substituted for the condition that Hamadi cannot be appointed to the same court as Perkins, would have the same effect on the appointments of the seven candidates?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"rule substitution",
+					"",
+					""
+				],
+				"options": [
+					"Hamadi and Perkins cannot both be appointed to the appellate court.",
+					"If Hamadi is not appointed to the trial court, then Perkins must be.",
+					"If Perkins is appointed to the same court as Jefferson, then Hamadi cannot be.",
+					"If Hamadi is appointed to the same court as Li, then Perkins must be appointed to the same court as Kurtz.",
+					"No three of Hamadi, Kurtz, Li, and Perkins can be appointed to the same court as each other."
+				],
+				"answer": "E",
+				"explanation": "Since Li already appointed to the appellate court and kurt must be on trail court, only way to assign three of Hamadi, Kurtz, Li and Perkins to a single court is to appoint Hamadi and Perkins to a single court. So for the rule - No three of Hamadi, Kurtz, Li, and Perkins can be appointed to the same court as each other. To satisfy Hamadi and Perkins can’t be in the same court. Therefore the answer is E. {‘Answer’ : ‘E’}"
+			}
+		],
+		"fatherId": "201106_2-G",
+		"passageId": "1",
+		"passage": "Each of seven candidates for the position of judge—Hamadi, Jefferson, Kurtz, Li, McDonnell, Ortiz, and Perkins—will be appointed to an open position on one of two courts—the appellate court or the trial court. There are three open positions on the appellate court and six open positions on the trial court, but not all of them will be filled at this time. The judicial appointments will conform to the following conditions: Li must be appointed to the appellate court. Kurtz must be appointed to the trial court. Hamadi cannot be appointed to the same court as Perkins.",
+		"passageBreakdown": "First let’s list down facts. There are seven candidates for the position of judge. Candidates are Hamadi, Jefferson, Kurtz, Li, McDonnell, Ortiz, and Perkins. Each of them will be assigned to an open position on one of two courts. The two courts are appellate court and trial court. There are three open positions on the appellate court and six open positions on the trial court, but not all of them will be filled at this time. Following are the rules that need to be followed: 1. Li must be appointed to the appellate court. 2. Kurtz must be appointed to the trial court. 3. Hamadi cannot be appointed to the same court as Perkins."
+	}
+]
