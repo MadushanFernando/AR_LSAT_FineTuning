@@ -1,0 +1,121 @@
+[
+	{
+		"id": "201106_2-G_2",
+		"questions": [
+			{
+				"id": "201106_2-G_2_6",
+				"fatherId": "201106_2-G_2",
+				"questionId": "6",
+				"question": "Which one of the following could be an accurate list of the members in the order in which they dive from the plane, from first to last?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"acceptability",
+					"",
+					""
+				],
+				"options": [
+					"Larue, Trevino, Ohba, Zacny, Pei, Weiss",
+					"Larue, Trevino, Pei, Zacny, Weiss, Ohba",
+					"Weiss, Ohba, Trevino, Zacny, Pei, Larue",
+					"Trevino, Weiss, Pei, Ohba, Zacny, Larue",
+					"Trevino, Weiss, Zacny, Larue, Pei, Ohba"
+				],
+				"answer": "B",
+				"explanation": "Since Larue dives from the plane either first or last, Answer E is wrong. Since Trevino dives from the plane before Weiss answer C is wrong. Since Weiss won’t dive last Answer A is wrong. Since pei dives after either ohba or Larue, answer D is wrong. Which leaves answer B which follows all the rules. Therefore Answer is B. {‘Answer’ : ‘B’}"
+			},
+			{
+				"id": "201106_2-G_2_7",
+				"fatherId": "201106_2-G_2",
+				"questionId": "7",
+				"question": "Which one of the following must be true?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be true",
+					"",
+					""
+				],
+				"options": [
+					"At least two of the members dive from the plane after Larue.",
+					"At least two of the members dive from the plane after Ohba.",
+					"At least two of the members dive from the plane after Pei.",
+					"At least two of the members dive from the plane after Trevino.",
+					"At least two of the members dive from the plane after Weiss."
+				],
+				"answer": "D",
+				"explanation": "Trevino dives from the plane at some time before Weiss. Which means Weiss is after Trevino. Since Weiss don’t dive last that means there must atleas one person after Weiss. That means there must be atleast two persons after Trevino. Which makes Answer D must be true. Therefore the Answer is D.  {‘Answer’ : ‘D’}"
+			},
+			{
+				"id": "201106_2-G_2_8",
+				"fatherId": "201106_2-G_2",
+				"questionId": "8",
+				"question": "If Larue dives from the plane last, then each of the following could be true EXCEPT:",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” clause/could be true except",
+					"",
+					""
+				],
+				"options": [
+					"Trevino dives from the plane fourth.",
+					"Weiss dives from the plane fourth.",
+					"Ohba dives from the plane fifth.",
+					"Pei dives from the plane fifth.",
+					"Zacny dives from the plane fifth."
+				],
+				"answer": "C",
+				"explanation": "Since Pei dives from the plane at some time after either Ohba or Laure but not both, Pei should be between them. Since Laure is last pei should be before laure and Ohba should be before Pei. If Ohba dives fifth there’s no space for Pei and therefore Ohba can’t dive as fifth. Which means Answer C can’t be true. Therefore the Answer is C. {‘Answer’:’C’}"
+			},
+			{
+				"id": "201106_2-G_2_9",
+				"fatherId": "201106_2-G_2",
+				"questionId": "9",
+				"question": "If Zacny dives from the plane immediately after Weiss, then which one of the following must be false?",
+				"isExcept": "",
+				"tags": [
+					"",
+					"must be false",
+					"",
+					""
+				],
+				"options": [
+					"Larue dives from the plane first.",
+					"Trevino dives from the plane third.",
+					"Zacny dives from the plane third.",
+					"Pei dives from the plane fourth.",
+					"Zacny dives from the plane fourth."
+				],
+				"answer": "D",
+				"explanation": "Since Zacny dives immediately after Weiss, Thery should have two consecutive slots. And before those slots there should be a slot for Trevino. If pei dives from the plane fourth and since Zacny and Weiss are consecutive and Trevino should be before Weiss, Ohba and Larue has to be in the last 2 slots. Which makes it impossible for pei to be in between them. Therefore Pei can’t dive fourth. Which means answer D must be false. Therefore, Answer is D. {‘Answer’:’D’}"
+			},
+			{
+				"id": "201106_2-G_2_10",
+				"fatherId": "201106_2-G_2",
+				"questionId": "10",
+				"question": "If Trevino dives from the plane immediately after Larue, then each of the following could be true EXCEPT:",
+				"isExcept": "",
+				"tags": [
+					"",
+					"“if” clause/could be true except",
+					"",
+					""
+				],
+				"options": [
+					"Ohba dives from the plane third.",
+					"Weiss dives from the plane third.",
+					"Zacny dives from the plane third.",
+					"Pei dives from the plane fourth.",
+					"Weiss dives from the plane fourth."
+				],
+				"answer": "A",
+				"explanation": "If Trevino dives from the plane immediately after Larue that mean laure has to dive first. Which makes Trevino second. In this case if Ohba dives third there will be no space left for Pei to dive between Ohba and Laure. Which means Ohba can’t dive as third. Therefore Answer A can’t be true. Answer is A. {‘Answer’:’A’}"
+			}
+		],
+		"fatherId": "201106_2-G",
+		"passageId": "2",
+		"passage": "Exactly six members of a skydiving team—Larue, Ohba, Pei, Trevino, Weiss, and Zacny—each dive exactly once, one at a time, from a plane, consistent with the following conditions: Trevino dives from the plane at some time before Weiss does. Larue dives from the plane either first or last. Neither Weiss nor Zacny dives from the plane last. Pei dives from the plane at some time after either Ohba or Larue but not both.",
+		"passageBreakdown": "There are six members in a skydiving team. Six members are Larue, Ohba, Pei, Trevino, Weiss, and Zacny. Each dive exactly once, one at a time, from a plane. The possible diving times can be taken as first, second, third, fourth, fifth, and sixth. Following are the rules that need to be followed: 1. Trevino dives from the plane at some time before Weiss does. 2. Larue dives from the plane either first or last. 3. Neither Weiss nor Zacny dives from the plane last. 4. Pei dives from the plane at some time after either Ohba or Larue but not both."
+	}
+]
